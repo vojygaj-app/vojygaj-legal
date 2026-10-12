@@ -1,0 +1,5 @@
+body { margin: 0; background: #fdf9f3; color: #1c1c18; font-family: "Iowan Old Style", Palatino, Georgia, serif; }
+main { max-width: 42rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+h1, h2 { font-weight: 500; }
+a { color: #6d0023; }
+footer { margin-top: 2rem; font-size: 0.95rem; }
